@@ -1,10 +1,17 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.dbenjoy.pocketsupernova",
-      "sha256_cert_fingerprints": ["66:B7:20:1C:C0:CD:75:3C:30:26:FB:B8:2E:49:7B:E3:8E:D6:0F:C3:C2:81:BA:D5:15:13:99:E0:FB:28:E7:F9"]
+      "sha256_cert_fingerprints": [
+        "66:B7:20:1C:C0:CD:75:3C:30:26:FB:B8:2E:49:7B:E3:8E:D6:0F:C3:C2:81:BA:D5:15:13:99:E0:FB:28:E7:F9",
+        "FE:38:95:AB:64:27:58:B9:19:45:B4:A7:4B:D7:02:43:35:73:9D:92:68:0F:C2:EB:84:50:A6:4B:4E:85:02:55",
+        "50:E8:A9:84:C0:47:9C:ED:95:BD:6C:1A:70:4C:3A:65:37:D0:6B:95:D2:85:EC:4E:78:89:7D:42:BF:66:D9:24",
+        "C7:6A:8E:E0:0B:21:CF:95:15:34:1F:7B:B6:78:90:BD:F3:7E:DE:DB:C6:27:6A:DA:64:ED:CA:63:91:9F:67:64"
+      ]
     }
   }
 ]
